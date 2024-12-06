@@ -1,0 +1,6 @@
+Colt:6,7,8
+Walter:15,15,15
+Katie:20,25,35
+Christy:6,6,6
+Bella:15,9,6
+Zack:7,25,6
